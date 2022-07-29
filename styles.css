@@ -47,12 +47,8 @@ section:not(.home) {
   animation: appear 0.5s ease 1;
 }
 
-.card-text {
-  font-size: 1rem;
-}
-
 .card button {
-  font-size: 0.6rem;
+  font-size: .75rem;
 }
 
 form input {
